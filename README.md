@@ -1,5 +1,9 @@
 # xm2by的博客
 
+## 足迹👣
+
+[CSDN主页](https://blog.csdn.net/XuM222222)
+
 ## lodash源码学习系列
 
 1.[chunk](https://github.com/xm2by/blog/issues/1)
